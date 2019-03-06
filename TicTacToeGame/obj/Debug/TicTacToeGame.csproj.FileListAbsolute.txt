@@ -5,3 +5,10 @@ C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\TicTacToeGame\bin
 C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
 C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\TicTacToeGame\obj\Debug\TicTacToeGame.exe
 C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
+C:\Users\Jen\Documents\Visual Studio 2017\Projects\C#-Learning\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+C:\Users\Jen\Documents\Visual Studio 2017\Projects\C#-Learning\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+C:\Users\Jen\Documents\Visual Studio 2017\Projects\C#-Learning\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+C:\Users\Jen\Documents\Visual Studio 2017\Projects\C#-Learning\TicTacToeGame\obj\Debug\TicTacToeGame.csprojAssemblyReference.cache
+C:\Users\Jen\Documents\Visual Studio 2017\Projects\C#-Learning\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\Jen\Documents\Visual Studio 2017\Projects\C#-Learning\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+C:\Users\Jen\Documents\Visual Studio 2017\Projects\C#-Learning\TicTacToeGame\obj\Debug\TicTacToeGame.pdb

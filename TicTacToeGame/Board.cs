@@ -38,7 +38,7 @@ namespace TicTacToeGame
         /// <summary>
         /// Pretty Prints out the board
         /// </summary>
-        public void printBoard()
+        public void PrintBoard()
         {
             Console.WriteLine("printBoard!");
             for(int row = 0; row < board.GetLength(0); row++)
@@ -63,8 +63,6 @@ namespace TicTacToeGame
         {
             board[x,y].Value = value;
         }
-
-        //public void MapKeyValuesToKeyboardInput()
     }
 
 }
