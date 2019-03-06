@@ -1,0 +1,8 @@
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\15-Methods\bin\Debug\15-Methods.exe.config
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\15-Methods\bin\Debug\15-Methods.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\15-Methods\bin\Debug\15-Methods.pdb
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\15-Methods\obj\Debug\15-Methods.csproj.CoreCompileInputs.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\15-Methods\obj\Debug\15-Methods.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\15-Methods\obj\Debug\15-Methods.pdb
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\15-Methods\obj\Debug\15-Methods.csprojAssemblyReference.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\15-Methods\bin\Debug\15-Methods.xml

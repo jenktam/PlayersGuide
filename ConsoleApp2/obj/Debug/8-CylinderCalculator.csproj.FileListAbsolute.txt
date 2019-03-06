@@ -1,0 +1,6 @@
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\8-CylinderCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

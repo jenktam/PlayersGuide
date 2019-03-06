@@ -1,0 +1,7 @@
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\12-FizzBuzz\obj\Debug\12-FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\12-FizzBuzz\obj\Debug\12-FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\12-FizzBuzz\bin\Debug\12-FizzBuzz.exe.config
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\12-FizzBuzz\bin\Debug\12-FizzBuzz.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\12-FizzBuzz\bin\Debug\12-FizzBuzz.pdb
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\12-FizzBuzz\obj\Debug\12-FizzBuzz.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\12-FizzBuzz\obj\Debug\12-FizzBuzz.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\19-Properties\obj\Debug\19-Properties.csprojAssemblyReference.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\19-Properties\obj\Debug\19-Properties.csproj.CoreCompileInputs.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\19-Properties\bin\Debug\19-Properties.exe.config
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\19-Properties\bin\Debug\19-Properties.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\19-Properties\bin\Debug\19-Properties.pdb
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\19-Properties\obj\Debug\19-Properties.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\19-Properties\obj\Debug\19-Properties.pdb

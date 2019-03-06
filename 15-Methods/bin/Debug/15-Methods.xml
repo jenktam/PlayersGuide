@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>15-Methods</name>
+    </assembly>
+    <members>
+        <member name="M:_15_Methods.Program.ReverseArray(System.Int32[])">
+            <summary>
+            Takes in an array and reverses it.
+            </summary>
+            <param name="arr">Array to reverse.</param>
+            <returns>An array of the original array passed that is reversed.</returns>
+        </member>
+        <member name="M:_15_Methods.Program.PrintFibSequence(System.Int32)">
+            <summary>
+            creates a fib sequence that is as long as the passed in size value
+            </summary>
+            <param name="size">How long you want the fib sequence array to be.</param>
+            <returns>The fibSequence based on the requested size</returns>
+        </member>
+    </members>
+</doc>

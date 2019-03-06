@@ -1,0 +1,7 @@
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp1\obj\Debug\10-ConditionalOperator.csproj.CoreCompileInputs.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp1\obj\Debug\10-ConditionalOperator.csprojAssemblyReference.cache

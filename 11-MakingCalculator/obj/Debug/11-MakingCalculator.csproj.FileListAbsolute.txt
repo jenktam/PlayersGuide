@@ -1,0 +1,7 @@
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\11-MakingCalculator\bin\Debug\11-MakingCalculator.exe.config
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\11-MakingCalculator\bin\Debug\11-MakingCalculator.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\11-MakingCalculator\bin\Debug\11-MakingCalculator.pdb
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\11-MakingCalculator\obj\Debug\11-MakingCalculator.csprojAssemblyReference.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\11-MakingCalculator\obj\Debug\11-MakingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\11-MakingCalculator\obj\Debug\11-MakingCalculator.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\11-MakingCalculator\obj\Debug\11-MakingCalculator.pdb

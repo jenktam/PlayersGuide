@@ -1,0 +1,7 @@
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\14-Enumerations\bin\Debug\14-Enumerations.exe.config
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\14-Enumerations\bin\Debug\14-Enumerations.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\14-Enumerations\bin\Debug\14-Enumerations.pdb
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\14-Enumerations\obj\Debug\14-Enumerations.csproj.CoreCompileInputs.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\14-Enumerations\obj\Debug\14-Enumerations.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\14-Enumerations\obj\Debug\14-Enumerations.pdb
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\14-Enumerations\obj\Debug\14-Enumerations.csprojAssemblyReference.cache

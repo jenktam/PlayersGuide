@@ -1,0 +1,7 @@
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\12-NestingLoops\bin\Debug\12-NestingLoops.exe.config
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\12-NestingLoops\bin\Debug\12-NestingLoops.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\12-NestingLoops\bin\Debug\12-NestingLoops.pdb
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\12-NestingLoops\obj\Debug\12-NestingLoops.csprojAssemblyReference.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\12-NestingLoops\obj\Debug\12-NestingLoops.csproj.CoreCompileInputs.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\12-NestingLoops\obj\Debug\12-NestingLoops.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\12-NestingLoops\obj\Debug\12-NestingLoops.pdb

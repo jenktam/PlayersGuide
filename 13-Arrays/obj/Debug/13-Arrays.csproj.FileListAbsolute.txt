@@ -1,0 +1,7 @@
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\13-Arrays\bin\Debug\13-Arrays.exe.config
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\13-Arrays\bin\Debug\13-Arrays.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\13-Arrays\bin\Debug\13-Arrays.pdb
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\13-Arrays\obj\Debug\13-Arrays.csprojAssemblyReference.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\13-Arrays\obj\Debug\13-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\13-Arrays\obj\Debug\13-Arrays.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\13-Arrays\obj\Debug\13-Arrays.pdb

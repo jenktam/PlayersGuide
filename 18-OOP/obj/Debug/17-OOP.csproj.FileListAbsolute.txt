@@ -1,0 +1,6 @@
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\18-OOP\bin\Debug\18-OOP.exe.config
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\18-OOP\bin\Debug\18-OOP.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\18-OOP\bin\Debug\18-OOP.pdb
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\18-OOP\obj\Debug\17-OOP.csproj.CoreCompileInputs.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\18-OOP\obj\Debug\18-OOP.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\18-OOP\obj\Debug\18-OOP.pdb

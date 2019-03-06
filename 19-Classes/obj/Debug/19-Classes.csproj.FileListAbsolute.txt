@@ -1,0 +1,7 @@
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\19-Classes\obj\Debug\19-Classes.csprojAssemblyReference.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\19-Classes\obj\Debug\19-Classes.csproj.CoreCompileInputs.cache
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\19-Classes\bin\Debug\19-Classes.exe.config
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\19-Classes\bin\Debug\19-Classes.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\19-Classes\bin\Debug\19-Classes.pdb
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\19-Classes\obj\Debug\19-Classes.exe
+C:\Users\Jen\documents\visual studio 2017\Projects\ConsoleApp2\19-Classes\obj\Debug\19-Classes.pdb
