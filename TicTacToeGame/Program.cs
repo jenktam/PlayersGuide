@@ -8,24 +8,24 @@ namespace TicTacToeGame
 {
     class Program
     {
-        /* 
-            * ask player if wants to play a new game
-        */
-
         static void Main(string[] args)
         {
-            Board newBoard = new Board();
-
-            //Creates dictionary with the keyboard input and the position coordinates
             Dictionary<string, Position> hash = new Dictionary<string, Position>();
-
-            newBoard.CreateBoard();
-            //newBoard.SetTileValue(0, 0, "x");
-            //newBoard.SetTileValue(2, 1, "o");
-            //newBoard.SetTileValue(2, 2, "o");
-            //newBoard.PrintBoard();
             MapKeyboardInputToPosition();
-            MapKeyboardAction();
+
+            // Set up board logistics and pass over to game controller
+            Board newBoard = new Board();
+            Player Player1 = new Player("x");
+            Player Player2 = new Player("o");
+            GameController gameController = new GameController(newBoard);
+
+            Console.WriteLine("***Welcome to the Tic Tac Toe Game!***");
+            gameController.StartGame();
+            gameController.EnterGamePlay(Player1.IconType, Player2.IconType, hash);
+            
+            // After winner determined reset game
+            RestartGame();
+
 
             Console.ReadKey();
 
@@ -33,7 +33,6 @@ namespace TicTacToeGame
             void MapKeyboardInputToPosition()
             {
                 //map keyboard input to board location
-
                 hash.Add("NumPad7", new Position(0, 0));
                 hash.Add("NumPad8", new Position(0, 1));
                 hash.Add("NumPad9", new Position(0, 2));
@@ -44,47 +43,36 @@ namespace TicTacToeGame
                 hash.Add("NumPad2", new Position(2, 1));
                 hash.Add("NumPad3", new Position(2, 2));
 
-                Console.WriteLine($"hash {hash}");
+                //Console.WriteLine($"hash {hash}");
+                //Console.WriteLine($"hash[NumPad7] {hash["NumPad7"]}");
 
-                //// Loop over items in collection.
-                foreach (KeyValuePair<string, Position> pair in hash)
-                {
-                    Console.WriteLine("KEY: " + pair.Key);
-                    Console.WriteLine("VALUE: " + pair.Value.X);
-                    Console.WriteLine("VALUE: " + pair.Value.Y);
-                }
             }
 
-            // User key input should map to position
-            // Can only put in NumPad0-9, anything else is invalid and should throw a warning
-            void MapKeyboardAction()
+            void RestartGame()
             {
-                string key = "";
+                Console.WriteLine("Would you like to restart the game? Press y or n to continue...");
+                string restartGame = Console.ReadLine();
 
-                while (key != "Q")
+
+                if (restartGame == "y")
                 {
-                    key = Console.ReadKey().Key.ToString();
-                    Console.WriteLine("key: " + key);
-
-                    foreach (KeyValuePair<string, Position> pair in hash)
-                    {
-                        if (key == pair.Key)
-                        {
-                            //key: numPad7 pair.Key: numPad7
-                            Console.WriteLine("match KEY: " + pair.Key);
-                            Console.WriteLine("VALUE: " + pair.Value.X);
-                            Console.WriteLine("VALUE: " + pair.Value.Y);
-                        }
-                        else
-                        {
-                            Console.WriteLine("no match!");
-                        }
-                    }
+                    newBoard.winner = "";
+                    gameController.StartGame();
+                    gameController.EnterGamePlay(Player1.IconType, Player2.IconType, hash);
+                    RestartGame(); // just call this method again and restart game if user enters "y".
                 }
-                Console.WriteLine("exiting...");
-                return;
-            };
+                else if(restartGame == "n")
+                {
+                    Console.WriteLine("Tic tac toe game is over. Thanks for playing.");
+                    Console.WriteLine("exiting...");
+                    return;
+                } else
+                {
+                    Console.WriteLine("Invalid string. Please only choose y or n.");
+                    RestartGame();
+                }
 
+            }
         }
     }
 }

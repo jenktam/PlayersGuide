@@ -9,29 +9,27 @@ namespace TicTacToeGame
     class Board
     {
         public Tile[,] board = new Tile[3, 3];
+        public string winner;
+
+        // constructor
+        public Board()
+        {
+            board = board;
+            winner = "";
+        }
 
         public Tile[,] CreateBoard()
         {
-            //Tile[,] matrix = new Tile[3, 3];
-
-            int TileNumber = 1;
-
             //Iterates until row < length of 1st number in the matrix
             for (int row = 0; row < board.GetLength(0); row++)
             {
                 for (int column = 0; column < board.GetLength(1); column++)
                 {
-                    Tile tile = new Tile(TileNumber);
+                    Tile tile = new Tile(row, column);
                     board[row, column] = tile;
-                    Console.Write($"{ tile.Position }");
-                    TileNumber += 1;
-
                 }
-                Console.WriteLine();
             }
 
-            Console.WriteLine($"board: {board}");
-            Console.WriteLine($"board[0,0]: {board[0, 0]}");
             return board;
         }
 
@@ -40,7 +38,7 @@ namespace TicTacToeGame
         /// </summary>
         public void PrintBoard()
         {
-            Console.WriteLine("printBoard!");
+            //Console.WriteLine("printBoard!");
             for(int row = 0; row < board.GetLength(0); row++)
             {
                 for (int column = 0; column < board.GetLength(1); column++)
@@ -61,7 +59,21 @@ namespace TicTacToeGame
         // tile1, "x"
         public void SetTileValue(int x, int y, string value)
         {
+            //Console.WriteLine($"x: {x}");
+            //Console.WriteLine($"y: {y}");
+            //Console.WriteLine($"value {value}");
             board[x,y].Value = value;
+        }
+
+        public void ResetBoard()
+        {
+            //for (int row = 0; row < board.GetLength(0); row++)
+            //{
+            //    for (int column = 0; column < board.GetLength(1); column++)
+            //    {
+            //        board[row, column].Value = "";
+            //    }
+            //}
         }
     }
 

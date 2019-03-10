@@ -8,18 +8,18 @@ namespace TicTacToeGame
 {
     class Tile
     {
-        public int Position { get; set; }
+        public Position Position { get; set; }
         public string Value { get; set; }
   
-        public Tile(int position, string value)
+        public Tile(int row, int column, string value)
         {
-            Position = position;
+            Position = new Position(row, column);
             Value = value;
         }
 
-        public Tile(int position)
+        public Tile(int row, int column)
         {
-            Position = position;
+            Position = new Position(row, column);
             Value = " ";
         }
 
