@@ -56,24 +56,9 @@ namespace TicTacToeGame
             }
         }
 
-        // tile1, "x"
         public void SetTileValue(int x, int y, string value)
         {
-            //Console.WriteLine($"x: {x}");
-            //Console.WriteLine($"y: {y}");
-            //Console.WriteLine($"value {value}");
             board[x,y].Value = value;
-        }
-
-        public void ResetBoard()
-        {
-            //for (int row = 0; row < board.GetLength(0); row++)
-            //{
-            //    for (int column = 0; column < board.GetLength(1); column++)
-            //    {
-            //        board[row, column].Value = "";
-            //    }
-            //}
         }
     }
 

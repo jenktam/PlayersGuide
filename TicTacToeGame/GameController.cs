@@ -8,21 +8,10 @@ namespace TicTacToeGame
 {
     class GameController
     {
-        /* 
-         * fn: start game - create new board and wait for player inputs. after each input check if there's a winner. if winner, end game
-         * 
-         */
-        //public Board GCBoard = new Board();
-        //GCBoard.CreateBoard();
-
-        //public GameController()
-        //{
-        //    GCBoard = board;
-        //}
-
         public Player Player1 { get; set; }
         public Player Player2 { get; set; }
         public Board GCBoard { get; set; }
+        
         //Creates dictionary with the keyboard input and the position coordinates
         Dictionary<string, Position> hash = new Dictionary<string, Position>();
 
@@ -35,12 +24,7 @@ namespace TicTacToeGame
         {
             Player Player1 = new Player("x");
             Player Player2 = new Player("o");
-
-            GCBoard.CreateBoard(); // must set this first otherwise get instance errors. fix this!
-            //GCBoard.PrintBoard();
-
-
-
+            GCBoard.CreateBoard();
         }
 
         public void EnterGamePlay(string player1Icon, string player2Icon, Dictionary<string, Position> hash)

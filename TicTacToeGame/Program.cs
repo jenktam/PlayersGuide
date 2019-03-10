@@ -59,7 +59,7 @@ namespace TicTacToeGame
                     newBoard.winner = "";
                     gameController.StartGame();
                     gameController.EnterGamePlay(Player1.IconType, Player2.IconType, hash);
-                    RestartGame(); // just call this method again and restart game if user enters "y".
+                    RestartGame(); // Just call this method again and restart game if user enters "y".
                 }
                 else if(restartGame == "n")
                 {

@@ -10,7 +10,6 @@ namespace TicTacToeGame
     {
         public string IconType { get; set; }
 
-        //this needs work
         public Player(string iconType)
         {
             IconType = iconType;
